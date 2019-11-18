@@ -1,5 +1,4 @@
-body{
-    background-image: url(images/haikei.jpg)
+
 }
 h1{
     background-color: black;
@@ -11,3 +10,5 @@ h3{
     background-color: aqua
 }
 
+body{
+    background-image: url("../images/haikei.jpg");
